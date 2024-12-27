@@ -1,5 +1,5 @@
 # 💫 Rexzea
-Just a 16 year old guy<br>
+Just a 16yo guy<br>
 
 
 ## 🌐 Socials:
