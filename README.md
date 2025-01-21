@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rexzea
 ==============================================================================================================================
-## <br>I am a someone who studies machine learning and white hacking 🔐🤖🙇‍♂️
+## <br>I am a 16yo who is learning about ML/AI and White Hacking 🔐🤖🙇‍♂️
 
 
 
