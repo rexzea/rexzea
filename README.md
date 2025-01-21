@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rexzea
 ==============================================================================================================================
-## <br>I am an White Hacker and Machine Learning Engineer. I'm currently diving into threat intelligence, detectioner, and reinforcement learning. 🔐🤖
+## <br>I am a someone who studies machine learning and white hacking 🔐🤖🙇‍♂️
+
 
 
 
