@@ -1,15 +1,33 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rexzea
 ==============================================================================================================================
 
-I am a 16yo student with a deep passion for Machine Learning, Quantum Computing, and Cyber White Hacker. Through my organizations, I aim to push the boundaries of technology and provide innovative solutions in both scientific research and IT services.
+# Hi there! 👋
 
-As the founder of [UniVoid](https://github.com/IVerse-VDV), I lead the development of cutting edge AI and quantum based technologies. Our primary focus is on creating advanced systems for atomic particle detection and analysis, combining artificial intelligence with quantum mechanics. At UniVoid, we're working to revolutionize scientific research through innovative technological solutions.
+I'm a 16yo tech enthusiast passionate about Machine Learning, Quantum Computing, and White Cyber.
 
-I also founded [Griya Technology](https://github.com/Griya-Technology), a IT solutions company. We specialize in professional IT services, custom software development, website creation, and technical support. Our team is dedicated to delivering solutions that help businesses and organizations thrive in the digital age.
+## Organizations
 
-Currently, Im focusing on developing AI systems that can detect and analyze atomic particle movements, a project that represents our commitment to advancing technology and scientific research. We believe in the power of combining AI with quantum technology to create breakthrough solutions for the future.
+### 🔬 UniVoid
+Leading innovation in AI and quantum-based technologies:
+- Developing cutting-edge AI systems for atomic particle detection
+- Combining artificial intelligence with quantum mechanics
+- Advancing scientific research through technological solutions
 
-Interested in quantum AI research or need professional IT services? Feel free to explore [UniVoid](https://github.com/IVerse-VDV) for our innovative projects or visit [Griya Technology](https://github.com/Griya-Technology) for our IT solutions. Lets shape the future of technology together!
+### 💻 Griya Technology
+Providing comprehensive IT solutions:
+- Professional IT services
+- Custom software development
+- Website creation
+- Technical support
+
+## Current Focus
+Currently developing AI systems for atomic particle movement analysis, combining AI with quantum technology to create breakthrough solutions for the future.
+
+## Let's Connect!
+- Interested in quantum AI research? Explore **UniVoid**
+- Need professional IT services? Visit **Griya Technology**
+
+Let's shape the future of technology together! ✨
 
 Happy exploring!!! 😉
 
