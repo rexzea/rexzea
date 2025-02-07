@@ -1,33 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rexzea
 ==============================================================================================================================
 
-# Hi there! 👋
-
-I'm a 16yo tech enthusiast passionate about Machine Learning, Quantum Computing, and White Cyber.
+I am 16yo tech enthusiast focusing on Machine Learning, Quantum Computing, and White Cyber.
 
 ## Organizations
 
 ### 🔬 UniVoid
-Leading innovation in AI and quantum-based technologies:
-- Developing cutting-edge AI systems for atomic particle detection
-- Combining artificial intelligence with quantum mechanics
-- Advancing scientific research through technological solutions
+Developing AI and quantum-based technologies for atomic particle detection and analysis.
 
 ### 💻 Griya Technology
-Providing comprehensive IT solutions:
-- Professional IT services
-- Custom software development
-- Website creation
-- Technical support
+IT solutions company providing custom software development and technical support.
 
-## Current Focus
-Currently developing AI systems for atomic particle movement analysis, combining AI with quantum technology to create breakthrough solutions for the future.
-
-## Let's Connect!
-- Interested in quantum AI research? Explore **UniVoid**
-- Need professional IT services? Visit **Griya Technology**
-
-Let's shape the future of technology together! ✨
+## Connect With Me
+Let's innovate together! Explore **UniVoid** for quantum AI research or **Griya Technology** for IT services ✨
 
 Happy exploring!!! 😉
 
