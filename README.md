@@ -6,20 +6,16 @@ I'm a 16yo student passionate about Machine Learning, Quantum Computing, and Whi
 
 
 
-## Organizations
+## My Organizations
 
-### UniVoid
-Leading the development of AI and quantum-based technologies, focusing on atomic particle detection and analysis. Our mission is to revolutionize scientific research by combining artificial intelligence with quantum mechanics.
+### [UniVoid](https://github.com/IVerse-VDV)
+We study the development of AI and quantum-based technologies, with a focus on the detection and analysis of atomic particles. Our mission is to revolutionize scientific research by combining artificial intelligence with quantum mechanics.
 
-### Griya Technology
-An IT solutions company providing professional services including custom software development, website creation, and technical support. We help businesses and organizations thrive in the digital age.
+### [Griya Techonology](https://github.com/Griya-Technology)
+IT solutions company providing professional services including custom software development, website creation, and IT Services. We help businesses and organizations thrive in the digital era.
 
 ## Current Focus
-Currently developing AI systems for detecting and analyzing atomic particle movements, demonstrating our commitment to advancing technology and scientific research. This project combines AI with quantum technology to create breakthrough solutions for the future.
-
-## Connect With Me
-- For quantum AI research and innovative projects: Visit [UniVoid](https://github.com/IVerse-VDV)
-- For professional IT services: Check out [Griya Techonology](https://github.com/Griya-Technology)
+We are currently developing AI systems to detect and analyze the movement of atomic particles, demonstrating our commitment to technological progress and scientific research. This project combines AI with quantum technology to create breakthrough solutions for the future.
 
 Happy exploring!!! 😉
 
