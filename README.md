@@ -14,7 +14,7 @@ We study the development of AI and quantum based technologies, with a focus on t
 ### [Griya Technology](https://github.com/Griya-Technology)
 IT solutions company providing professional services including custom software development, website creation, and IT Services. We help businesses and organizations thrive in the digital era.
 
-## Current Focus
+## 
 We are currently developing AI systems to detect and analyze the movement of atomic particles, demonstrating our commitment to technological progress and scientific research. This project combines AI with quantum technology to create breakthrough solutions for the future.
 
 Happy exploring!!! 😉
