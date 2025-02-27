@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================
 
 
-I'm a 16yo student passionate about Machine Learning, Quantum Computing, and White Cyber. Through my organizations, I strive to innovate in technology and scientific research.
+I'm a 16yo student passionate about **Machine Learning, Quantum Computing, and White Cyber**. Through my organizations, I strive to innovate in technology and scientific research.
 
 
 
